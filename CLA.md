@@ -1,10 +1,22 @@
+<!--
+SPDX-FileCopyrightText: 2026 Numen Games S.L.
+SPDX-License-Identifier: LicenseRef-Numen-AllRightsReserved
+-->
+
 # Contributor License Agreement — numinia-fleet
 
-**Numen Games S.L. — Individual Contributor License Agreement, v1.0**
+> **Draft pending legal review.** This agreement has not been reviewed by a
+> lawyer and is not yet offered to outside contributors. Until it is final,
+> contributions are accepted only from Numen Games S.L. and its agents. Do not
+> sign it, and do not rely on it, if you are not one of them. See
+> [CONTRIBUTING.md](CONTRIBUTING.md).
 
-This repository contains code licensed under `AGPL-3.0-only`. Per Numinia
-canon C-005 §6, any repository containing AGPL code requires a signed CLA
-from every contributor — per repository, not per path: it applies to every
+**Numen Games S.L. — Individual Contributor License Agreement, v1.0 (draft)**
+
+This repository is licensed under `AGPL-3.0-only`. Per Numinia principle
+PRI-005 (Opening is an act) and standard STD-010 (Licensing), a repository
+holding a program that obliges sharing asks every contributor to sign an
+agreement with us — per repository, not per path: it applies to every
 contribution to this repository, including documentation and configuration.
 
 By signing this Agreement (see [CONTRIBUTING.md](CONTRIBUTING.md) for the
@@ -58,11 +70,11 @@ You represent that:
 2. Each Contribution is Your original creation. Where a Contribution
    includes third-party material, You identify it as such, together with
    its license and provenance, and it complies with the consumption rules
-   of canon C-005 (no BUSL, SSPL, Elastic, Commons Clause, proprietary,
-   CC-NC, or CC-ND material; third-party GPL/AGPL never enters this
-   repository).
+   of PRI-005 and STD-010 (no BUSL, SSPL, Elastic, Commons Clause,
+   proprietary, CC-NC, or CC-ND material; third-party GPL/AGPL never enters
+   this repository).
 3. Contributions of assets (images, fonts, audio, data files) are
-   accompanied by an explicit CC0 declaration, per canon C-005 §6, and
+   accompanied by an explicit CC0 declaration, per STD-010, and
    contain no people, voices, or personal data whose rights are not Yours
    to waive.
 
@@ -74,4 +86,7 @@ required by applicable law or agreed in writing, Contributions are provided
 
 Signatures are recorded in [CLA-SIGNATORIES.md](CLA-SIGNATORIES.md). Adding
 Your entry there, in a commit authored by You, constitutes Your signature
-of this Agreement. CI blocks pull requests from authors not listed there.
+of this Agreement. The check that blocks pull requests from authors not
+listed there is not set up yet; until it is, the reviewer checks the list by
+hand. While this Agreement is a draft, only Numen Games S.L. and its agents
+are listed (see the notice at the top).
