@@ -1,10 +1,18 @@
+<!--
+SPDX-FileCopyrightText: 2026 Numen Games S.L.
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Working in this repository
 
 - **What it is:** the Numinia worlds fleet: what a server needs to host, monitor and update Numinia worlds.
 - **Project:** Flota (Hermes); cards go to the Assets board with the prefix [flota] until the fleet has its own.
 - **Human owner:** Pablo (@PabloFMM). He merges; agents open pull requests.
 - **Published at:** not published. No machine reads this repository yet.
-- **Licence:** AGPL-3.0-only, with the CLA ([CLA.md](CLA.md)) and a DCO sign-off on every commit.
+- **Licence:** AGPL-3.0-only, declared per file (REUSE: `reuse lint` must pass), with the CLA
+  ([CLA.md](CLA.md), a draft pending legal review) and a DCO sign-off on every commit.
+  Contributions are accepted only from Numen Games S.L. and its agents until the CLA is final
+  ([CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ## Rules
 

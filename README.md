@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Numen Games S.L.
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # numinia-fleet
 
 The Numinia worlds fleet: everything a server needs to host, monitor and update Numinia worlds.
@@ -9,7 +14,12 @@ no world. The recipe moves here in its own step, decided by Pablo; `open-1` is n
 
 ## Licence
 
-`AGPL-3.0-only` (`LICENSE`): the fleet is a program that runs a service, the core (PRI-005).
-Contributors sign the [CLA](CLA.md) once, in their first pull request, and every commit carries a
-DCO sign-off (`git commit -s`). Orders and other data, when they come, are `CC0-1.0`, declared
-per path in `REUSE.toml`. The names Numinia and Numen Games are not licensed.
+`AGPL-3.0-only` (`LICENSE`): the fleet is a program that runs a service, the core (PRI-005). The
+terms are declared per file in the REUSE format (`LICENSES/`, `REUSE.toml`; STD-010): code and
+configuration `AGPL-3.0-only`, explanatory texts `CC-BY-4.0`, the CLA files all rights reserved.
+Orders and other data, when they come, are `CC0-1.0`, declared per path in `REUSE.toml`.
+
+Every commit carries a DCO sign-off (`git commit -s`). The [CLA](CLA.md) is a **draft pending
+legal review**: it is not yet offered to outside contributors, and until it is final only Numen
+Games S.L. and its agents contribute ([CONTRIBUTING.md](CONTRIBUTING.md)). The names Numinia and
+Numen Games are not licensed ([TRADEMARKS.md](TRADEMARKS.md)).
