@@ -1,0 +1,6 @@
+version = 1
+
+# The licence is the file's, never the folder's (STD-010). Every text file in
+# this repository states its own licence in its first lines, so nothing needs
+# listing here yet. A file that cannot hold a comment (JSON, an image, an order
+# file) gets one entry below with its exact path, never a folder glob.

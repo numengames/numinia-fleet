@@ -1,8 +1,16 @@
+<!--
+SPDX-FileCopyrightText: 2026 Numen Games S.L.
+SPDX-License-Identifier: LicenseRef-Numen-AllRightsReserved
+-->
+
 # CLA signatories
 
 Each row is a signature of [CLA.md](CLA.md), added by its author in their
 own commit (their first PR includes this edit). CI checks pull request
 authors against the **GitHub user** column.
+
+**Draft.** [CLA.md](CLA.md) is a draft pending legal review. Until it is
+final, only Numen Games S.L. and its agents are listed here.
 
 **Agent accounts.** Rows marked _agent_ are not third-party signatures. An
 agent has no legal personality and cannot make the representations in
